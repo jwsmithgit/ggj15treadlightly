@@ -17,4 +17,5 @@ Return - Restart
 Esc - Exit
 
 Gamepad Controls
-Left,Right,LT/L2,RT/R2,RB/R1
+360 - Left,Right,LT,RT,RB
+PS3 - Left,Right,L2,R2,R1
