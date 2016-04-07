@@ -86,6 +86,7 @@ image_xscale = -1;
             <string>if( state == "spawning" and image_index &gt;= image_number-1 ){
     state = "left";
     sprite_index = spr_beast;
+    image_index = 0;
     move_speed = 0-random(4);
     image_xscale = -1;
 }
